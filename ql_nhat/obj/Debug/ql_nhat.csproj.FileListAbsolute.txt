@@ -1,0 +1,16 @@
+D:\c#\ql_nhat\ql_nhat\bin\Debug\ql_nhat.exe.config
+D:\c#\ql_nhat\ql_nhat\bin\Debug\ql_nhat.exe
+D:\c#\ql_nhat\ql_nhat\bin\Debug\ql_nhat.pdb
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.csprojResolveAssemblyReference.cache
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.Form1.resources
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.Properties.Resources.resources
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.csproj.GenerateResource.Cache
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.exe
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.pdb
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.look.resources
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.Login.resources
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.admin.resources
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.Loai.resources
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.Khach.resources
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.Ql.resources
+D:\c#\ql_nhat\ql_nhat\obj\Debug\ql_nhat.Hoadon.resources
